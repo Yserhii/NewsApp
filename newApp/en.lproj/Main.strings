@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "Login in"; ObjectID = "4Xo-3q-TW0"; */
+"4Xo-3q-TW0.normalTitle" = "Login in";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "BsF-TI-T3L"; */
+"BsF-TI-T3L.placeholder" = "password";
+
+/* Class = "UITextField"; placeholder = "email@email.com"; ObjectID = "DT7-4U-8QW"; */
+"DT7-4U-8QW.placeholder" = "email@email.com";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "InF-38-Z2C"; */
+"InF-38-Z2C.placeholder" = "password";
+
+/* Class = "UIButton"; normalTitle = "Create account"; ObjectID = "WgB-8p-lrP"; */
+"WgB-8p-lrP.normalTitle" = "Create account";
+
+/* Class = "UIButton"; normalTitle = "Login in"; ObjectID = "XjU-fP-vEn"; */
+"XjU-fP-vEn.normalTitle" = "Login in";
+
+/* Class = "UITextField"; placeholder = "password confirmation"; ObjectID = "gFQ-ym-XFj"; */
+"gFQ-ym-XFj.placeholder" = "password confirmation";
+
+/* Class = "UIButton"; normalTitle = "Create account"; ObjectID = "lfl-he-NWf"; */
+"lfl-he-NWf.normalTitle" = "Create account";
+
+/* Class = "UITextField"; placeholder = "email@email.com"; ObjectID = "rYn-29-ejS"; */
+"rYn-29-ejS.placeholder" = "email@email.com";
