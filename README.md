@@ -20,8 +20,8 @@ git clone https://github.com/Yserhii/NewsApp.git && cd NewsApp && open newApp.xc
 - Login to account
 - New user registration
 ## User registration:
-- email
-- password
+- Email
+- Password
 ## User Information Page:
 - Name
 - Surname
