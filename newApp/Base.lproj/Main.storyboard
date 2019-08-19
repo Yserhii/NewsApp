@@ -239,6 +239,7 @@
                                             <constraint firstItem="yar-zJ-LBq" firstAttribute="leading" secondItem="N7P-Ut-CeE" secondAttribute="leading" constant="20" id="F4q-MK-gve"/>
                                             <constraint firstItem="ZpP-7G-7JT" firstAttribute="top" secondItem="N7P-Ut-CeE" secondAttribute="top" constant="15" id="NJR-Hp-fxr"/>
                                             <constraint firstAttribute="trailing" secondItem="swR-e9-gvB" secondAttribute="trailing" constant="20" id="Qmm-68-lmM"/>
+                                            <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="8HT-Fz-h31" secondAttribute="bottom" constant="10" id="aCy-Qb-qTA"/>
                                             <constraint firstItem="8HT-Fz-h31" firstAttribute="leading" secondItem="N7P-Ut-CeE" secondAttribute="leading" constant="20" id="bsj-J2-xCL"/>
                                             <constraint firstItem="swR-e9-gvB" firstAttribute="leading" secondItem="N7P-Ut-CeE" secondAttribute="leading" constant="20" id="k2w-Se-1og"/>
                                             <constraint firstItem="yar-zJ-LBq" firstAttribute="top" secondItem="ZpP-7G-7JT" secondAttribute="bottom" constant="10" id="uTZ-6r-JNZ"/>
@@ -635,7 +636,7 @@
                                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <color key="highlightedColor" cocoaTouchSystemColor="darkTextColor"/>
                                             </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Condition" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7Vz-oA-zut">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Condition" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7Vz-oA-zut">
                                                 <rect key="frame" x="20" y="59.5" width="374" height="23"/>
                                                 <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="20"/>
                                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -854,6 +855,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="ohp-5z-gkk"/>
+        <segue reference="bXB-yI-Wqz"/>
     </inferredMetricsTieBreakers>
 </document>

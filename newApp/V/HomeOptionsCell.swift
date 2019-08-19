@@ -34,6 +34,7 @@ class HomeOptionsCell: UITableViewCell {
         super.init(style: style, reuseIdentifier: reuseIdentifier)
         
         backgroundColor = .darkGray
+        selectionStyle = .none
         
         addSubview(author)
         author.translatesAutoresizingMaskIntoConstraints = false
