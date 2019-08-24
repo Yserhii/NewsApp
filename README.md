@@ -14,7 +14,7 @@ git clone https://github.com/Yserhii/NewsApp.git && cd NewsApp && open newApp.xc
 - backend: https://firebase.google.com
 - news: https://newsapi.org/
 - weather: https://www.apixu.com/api.aspx
-- import: https://cocoapods.org/
+- import: https://cocoapods.org/ (Alamofire, SwiftyJSON)
 
 ## Implemented by:
 ## User authorization:
