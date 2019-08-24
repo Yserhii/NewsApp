@@ -2,7 +2,7 @@
 
 How to start:
 ```bash
-git clone https://github.com/Yserhii/NewsApp.git && cd NewsApp && open newApp.xcodeproj
+git clone https://github.com/Yserhii/NewsApp.git && cd NewsApp && open newApp.xcworkspace
 ▶️ on any iPhone/Simulator
 ```
 <div align="center">
