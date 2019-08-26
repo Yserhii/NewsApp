@@ -16,7 +16,7 @@ git clone https://github.com/Yserhii/NewsApp.git && cd NewsApp && open newApp.xc
 - weather: https://www.apixu.com/api.aspx
 - import: https://cocoapods.org/ (Alamofire, SwiftyJSON)
 
-## Implemented by:
+## Implemented:
 ## User authorization:
 - Login to account
 - New user registration
