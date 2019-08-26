@@ -11,10 +11,10 @@ git clone https://github.com/Yserhii/NewsApp.git && cd NewsApp && open newApp.xc
 </div>
 
 ## Resources I used
-- backend: https://firebase.google.com
-- news: https://newsapi.org/
-- weather: https://www.apixu.com/api.aspx
-- import: https://cocoapods.org/ (Alamofire, SwiftyJSON)
+- Backend: https://firebase.google.com
+- News: https://newsapi.org/
+- Weather: https://www.apixu.com/api.aspx
+- Import: https://cocoapods.org/ (Alamofire, SwiftyJSON)
 
 ## Implemented:
 ## User authorization:
