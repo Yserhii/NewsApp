@@ -1,6 +1,6 @@
 # NewsApp
 
-How to start:
+## How to start:
 ```bash
 git clone https://github.com/Yserhii/NewsApp.git && cd NewsApp && open newApp.xcworkspace
 ▶️ on any iPhone/Simulator
